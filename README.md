@@ -35,7 +35,7 @@ Entries: 991,346 samples
 -Strength: Balanced performance across all three classes, less overfitting
 -Weakness: Slightly slower inference as tree count increases
 
-Tools & Libraries
+### Tools & Libraries
 -Python 3.10+
 -TensorFlow / Keras
 -scikit-learn
