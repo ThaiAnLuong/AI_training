@@ -20,7 +20,7 @@ Provider: National Health Insurance Service, Korea
 Entries: 991,346 samples
 
 Methodology
-        Neural Network (NN)
+        ->Neural Network (NN)
 -Architecture: 3 Dense layers (64 → 32 → 3)
 -Activations: ReLU for hidden layers, Softmax for output
 -Regularization: 20% Dropout
@@ -30,7 +30,7 @@ Methodology
 -Strength: Strong at identifying non-smokers (Class 0)
 -Weakness: Difficulty distinguishing between former and current smokers
 
-        Random Forest (RF)
+        ->Random Forest (RF)
 -Mechanism: Ensemble of decision trees with feature importance weighting
 -Strength: Balanced performance across all three classes, less overfitting
 -Weakness: Slightly slower inference as tree count increases
