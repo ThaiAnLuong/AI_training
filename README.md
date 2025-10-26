@@ -21,26 +21,26 @@ Entries: 991,346 samples
 
 ## Methodology
 ### Neural Network (NN)
--Architecture: 3 Dense layers (64 → 32 → 3)
--Activations: ReLU for hidden layers, Softmax for output
--Regularization: 20% Dropout
--Optimizer: Adam (dynamic learning rate)
--Loss Function: Sparse Categorical Cross-Entropy
--Accuracy: ~70% overall on test set
--Strength: Strong at identifying non-smokers (Class 0)
--Weakness: Difficulty distinguishing between former and current smokers
+Architecture: 3 Dense layers (64 → 32 → 3)
+Activations: ReLU for hidden layers, Softmax for output
+Regularization: 20% Dropout
+Optimizer: Adam (dynamic learning rate)
+Loss Function: Sparse Categorical Cross-Entropy
+Accuracy: ~70% overall on test set
+Strength: Strong at identifying non-smokers (Class 0)
+Weakness: Difficulty distinguishing between former and current smokers
 
 ### Random Forest (RF)
--Mechanism: Ensemble of decision trees with feature importance weighting
--Strength: Balanced performance across all three classes, less overfitting
--Weakness: Slightly slower inference as tree count increases
+Mechanism: Ensemble of decision trees with feature importance weighting
+Strength: Balanced performance across all three classes, less overfitting
+Weakness: Slightly slower inference as tree count increases
 
 ### Tools & Libraries
--Python 3.10+
--TensorFlow / Keras
--scikit-learn
--pandas / numpy
--matplotlib / seaborn
+Python 3.10+
+TensorFlow / Keras
+scikit-learn
+pandas / numpy
+matplotlib / seaborn
 
 ## HOW TO RUN
 1/ open AI2_Final.ipynb in jupyter notebook
