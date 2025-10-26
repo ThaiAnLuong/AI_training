@@ -3,10 +3,10 @@
 Project_authors: Herbert Shin, Eyoel Hailemariam, Thai Luong, Colin Smith
 
 ## Overview
-This project explores the use of machine learning and neural networks to classify individuals as smokers, former smokers, or non-smokers based on biological, physical, and psychological data.__
-The research compares two primary AI models — a Deep Feedforward Neural Network (NN) and a Random Forest (RF) — to determine which performs better at identifying smoking behavior patterns.____
+This project explores the use of machine learning and neural networks to classify individuals as smokers, former smokers, or non-smokers based on biological, physical, and psychological data.<br />
+The research compares two primary AI models — a Deep Feedforward Neural Network (NN) and a Random Forest (RF) — to determine which performs better at identifying smoking behavior patterns.<br /><br />
 
-The work aims to contribute to AI in healthcare by demonstrating how automated behavioral detection can aid public health strategies and personalized treatment programs.__
+The work aims to contribute to AI in healthcare by demonstrating how automated behavioral detection can aid public health strategies and personalized treatment programs.<br />
 
 ## Objectives
 Develop an AI-based system for early detection of smoking behavior.__
