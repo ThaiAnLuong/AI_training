@@ -42,3 +42,8 @@ Tools & Libraries
 -pandas / numpy
 -matplotlib / seaborn
 
+HOW TO RUN
+1/ open AI2_Final.ipynb in jupyter notebook
+2/ unzip smoking_driking_dataset_Ver01.zip
+3/ in jupiter notebook make sure to have requirement libs
+4/ run all
